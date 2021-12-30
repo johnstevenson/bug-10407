@@ -8,8 +8,5 @@
 >
     <projectFiles>
         <directory name="app" />
-        <ignoreFiles>
-            <directory name="vendor" />
-        </ignoreFiles>
     </projectFiles>
 </psalm>
